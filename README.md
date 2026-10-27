@@ -4,7 +4,7 @@ Analysis of 180,000 order lines from the DataCo Smart Supply Chain dataset. The 
 
 Tools: Python (pandas), SQL (SQLite), Power BI.
 
-![Dashboard](powerbi/dashboard.png)
+![Dashboard](powerbi/dashboard.pdf)
 
 ## Business question
 
